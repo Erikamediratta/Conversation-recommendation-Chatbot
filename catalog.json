@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Java (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-new/",
+    "description": "Tests Java programming knowledge including OOP data structures and algorithms",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["java", "programming", "backend", "developer", "OOP", "coding"]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Tests Java 8 features like lambda expressions streams and functional programming",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["java", "java8", "lambda", "streams", "backend", "developer"]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "description": "Tests Python programming including syntax libraries scripting and automation",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["python", "programming", "scripting", "automation", "developer", "data science"]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "description": "Tests SQL knowledge including queries joins and database operations",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["sql", "database", "queries", "data", "backend", "analytics", "mysql"]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "description": "Tests JavaScript skills including ES6 DOM manipulation and web development",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["javascript", "JS", "frontend", "web", "react", "developer", "node"]
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "description": "Tests Spring framework knowledge for Java backend and microservices development",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["spring", "spring boot", "java", "backend", "microservices", "REST", "API"]
+  },
+  {
+    "name": "Machine Learning (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-new/",
+    "description": "Tests machine learning concepts like supervised learning model evaluation and algorithms",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["machine learning", "ML", "AI", "data science", "algorithms", "model", "sklearn"]
+  },
+  {
+    "name": "Data Analysis with Python",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analysis-python/",
+    "description": "Tests ability to analyze real datasets using Python pandas and NumPy",
+    "test_type": ["K", "S"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 40,
+    "keywords": ["data analysis", "python", "pandas", "numpy", "data scientist", "analyst"]
+  },
+  {
+    "name": "R (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/r-new/",
+    "description": "Tests R programming skills for statistical analysis and data visualization",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["R", "statistics", "data science", "visualization", "analyst", "ggplot", "research"]
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-sharp-new/",
+    "description": "Tests C# programming knowledge including .NET framework OOP and async patterns",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["C#", ".NET", "microsoft", "backend", "developer", "software engineer"]
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "description": "Tests PHP programming knowledge for web scripting and server side development",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["PHP", "web developer", "backend", "laravel", "wordpress", "scripting"]
+  },
+  {
+    "name": "Cyber Security (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-security-new/",
+    "description": "Tests knowledge of cybersecurity threats network security and best practices",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["cybersecurity", "security", "network", "hacking", "infosec", "SOC", "threats"]
+  },
+  {
+    "name": "AWS Cloud Practitioner (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aws-cloud-practitioner-new/",
+    "description": "Tests foundational knowledge of AWS cloud services architecture and security",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["AWS", "cloud", "amazon", "cloud computing", "devops", "infrastructure"]
+  },
+  {
+    "name": "DevOps (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-new/",
+    "description": "Tests DevOps knowledge including CI CD pipelines Docker Kubernetes and deployment",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["devops", "CI/CD", "docker", "kubernetes", "jenkins", "cloud", "SRE", "infrastructure"]
+  },
+  {
+    "name": "Agile (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-new/",
+    "description": "Tests knowledge of Agile principles Scrum sprints and Agile team roles",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["agile", "scrum", "sprint", "kanban", "JIRA", "product owner", "scrum master"]
+  },
+  {
+    "name": "Project Management Skills (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-skills-new/",
+    "description": "Tests project management principles risk management and stakeholder communication",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional", "Manager"],
+    "duration_minutes": 30,
+    "keywords": ["project management", "PM", "agile", "waterfall", "stakeholders", "delivery", "PMP"]
+  },
+  {
+    "name": "Microsoft Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-new/",
+    "description": "Tests Excel skills including formulas pivot tables charts and VLOOKUP",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["excel", "spreadsheet", "data", "finance", "analyst", "reporting", "admin"]
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "description": "Tests knowledge of accounting principles balance sheets and financial reporting",
+    "test_type": ["K"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 30,
+    "keywords": ["accounting", "finance", "GAAP", "balance sheet", "auditor", "CPA", "financial"]
+  },
+  {
+    "name": "Business Writing",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-writing/",
+    "description": "Tests ability to write clear professional business emails reports and memos",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager"],
+    "duration_minutes": 25,
+    "keywords": ["writing", "communication", "email", "reports", "business writing", "professional"]
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Tests knowledge of software testing lifecycle test cases and quality assurance",
+    "test_type": ["K"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["testing", "QA", "quality assurance", "test cases", "software testing", "manual"]
+  },
+  {
+    "name": "OPQ32r (Occupational Personality Questionnaire)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "description": "Measures 32 personality traits to predict workplace behavior and culture fit",
+    "test_type": ["P"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager", "Executive"],
+    "duration_minutes": 25,
+    "keywords": ["personality", "behavior", "culture fit", "teamwork", "communication", "OPQ"]
+  },
+  {
+    "name": "OPQ32 (Full Version)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32/",
+    "description": "Full personality assessment measuring 32 dimensions for senior and executive roles",
+    "test_type": ["P"],
+    "job_levels": ["Professional", "Manager", "Director", "Executive"],
+    "duration_minutes": 45,
+    "keywords": ["personality", "OPQ32", "leadership", "senior", "executive", "behavioral style"]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "description": "Measures what motivates and engages a person at work across 18 dimensions",
+    "test_type": ["P"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager"],
+    "duration_minutes": 25,
+    "keywords": ["motivation", "engagement", "retention", "values", "satisfaction", "drive"]
+  },
+  {
+    "name": "Resilience Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience-questionnaire/",
+    "description": "Measures how well a person handles stress pressure and change at work",
+    "test_type": ["P"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager"],
+    "duration_minutes": 20,
+    "keywords": ["resilience", "stress", "pressure", "adaptability", "change", "wellbeing"]
+  },
+  {
+    "name": "Leadership Report (using OPQ32)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-report-opq32/",
+    "description": "Uses personality data to assess leadership potential and management style",
+    "test_type": ["P"],
+    "job_levels": ["Manager", "Director", "Executive"],
+    "duration_minutes": 25,
+    "keywords": ["leadership", "manager", "director", "executive", "senior", "OPQ", "management"]
+  },
+  {
+    "name": "Workplace Personality Inventory (WPI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-personality-inventory/",
+    "description": "Measures work related personality styles and preferences for predicting job performance",
+    "test_type": ["P"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 20,
+    "keywords": ["personality", "work style", "preferences", "performance", "hiring", "behavior"]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "description": "Tests ability to understand written information and evaluate arguments",
+    "test_type": ["A"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager"],
+    "duration_minutes": 17,
+    "keywords": ["verbal", "reading", "comprehension", "reasoning", "communication", "language"]
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "description": "Tests ability to interpret numbers graphs and tables to make business decisions",
+    "test_type": ["A"],
+    "job_levels": ["Entry", "Mid-Professional", "Manager"],
+    "duration_minutes": 17,
+    "keywords": ["numerical", "math", "data", "statistics", "finance", "analytics", "numbers"]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "description": "Tests ability to find patterns and rules in abstract shapes and diagrams",
+    "test_type": ["A"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 24,
+    "keywords": ["logic", "patterns", "abstract", "problem solving", "technical", "engineering"]
+  },
+  {
+    "name": "Verify G+ (General Mental Ability)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus/",
+    "description": "One test covering verbal numerical and inductive reasoning all together",
+    "test_type": ["A"],
+    "job_levels": ["Graduate", "Entry", "Mid-Professional"],
+    "duration_minutes": 36,
+    "keywords": ["general ability", "aptitude", "graduate", "cognitive", "reasoning", "critical thinking"]
+  },
+  {
+    "name": "Numerical Reasoning - Management",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-management/",
+    "description": "Advanced numerical reasoning test designed for managers and senior leaders",
+    "test_type": ["A"],
+    "job_levels": ["Manager", "Director", "Executive"],
+    "duration_minutes": 25,
+    "keywords": ["numerical", "management", "finance", "leadership", "director", "executive", "senior"]
+  },
+  {
+    "name": "Verbal Reasoning - Management",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning-management/",
+    "description": "Advanced verbal reasoning test for managers directors and senior leadership roles",
+    "test_type": ["A"],
+    "job_levels": ["Manager", "Director", "Executive"],
+    "duration_minutes": 19,
+    "keywords": ["verbal", "management", "leadership", "director", "executive", "reading", "senior"]
+  },
+  {
+    "name": "Global Skills Assessment (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "description": "Tests soft skills like communication teamwork and adaptability in real work situations",
+    "test_type": ["B"],
+    "job_levels": ["Entry", "Graduate", "Mid-Professional"],
+    "duration_minutes": 30,
+    "keywords": ["soft skills", "communication", "teamwork", "adaptability", "graduate", "behavioral"]
+  },
+  {
+    "name": "Situational Judgement Test - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test-manager/",
+    "description": "Tests how well someone handles real management and people leadership situations",
+    "test_type": ["B"],
+    "job_levels": ["Manager", "Senior Manager"],
+    "duration_minutes": 30,
+    "keywords": ["manager", "leadership", "people management", "decision making", "situational"]
+  },
+  {
+    "name": "Situational Judgement Test - Customer Service",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test-customer-service/",
+    "description": "Tests how someone handles real customer complaints and service situations",
+    "test_type": ["B"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 20,
+    "keywords": ["customer service", "BPO", "call center", "retail", "support", "service"]
+  },
+  {
+    "name": "Situational Judgement Test - Sales",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test-sales/",
+    "description": "Tests how candidates handle sales scenarios objections and closing deals",
+    "test_type": ["B"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 20,
+    "keywords": ["sales", "negotiation", "customer", "revenue", "business development", "closing"]
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument/",
+    "description": "Measures reliability safety attitude and dependability for industrial roles",
+    "test_type": ["B", "P"],
+    "job_levels": ["Entry", "Mid-Professional"],
+    "duration_minutes": 25,
+    "keywords": ["safety", "reliability", "industrial", "warehouse", "manufacturing", "dependability"]
+  },
+  {
+    "name": "Call Center Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/call-center-simulation/",
+    "description": "Simulates a real call center job to test multitasking and customer handling",
+    "test_type": ["S"],
+    "job_levels": ["Entry"],
+    "duration_minutes": 30,
+    "keywords": ["call center", "BPO", "customer service", "simulation", "multitasking", "phone"]
+  },
+  {
+    "name": "Automata - Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "description": "Live coding test where candidates write automated tests using Selenium WebDriver",
+    "test_type": ["S"],
+    "job_levels": ["Mid-Professional", "Professional"],
+    "duration_minutes": 45,
+    "keywords": ["selenium", "automation testing", "QA automation", "SDET", "webdriver", "test automation"]
+  },
+  {
+    "name": "Graduate Management Test (GMT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-management-test/",
+    "description": "Comprehensive reasoning test for graduate and management trainee programmes",
+    "test_type": ["A"],
+    "job_levels": ["Graduate", "Entry"],
+    "duration_minutes": 40,
+    "keywords": ["graduate", "management trainee", "aptitude", "campus hiring", "fresher", "reasoning"]
+  }
+]
